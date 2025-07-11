@@ -20,8 +20,8 @@ A lightweight, real-time firewall built using Python and `iptables`, designed fo
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-firewall.git
-cd personal-firewall
+git clone https://github.com/Supravat2021/Personal_firewall.git
+cd Personal-firewall
 ````
 
 2. **Install Scapy (if not installed already)**:

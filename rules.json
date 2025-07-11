@@ -1,0 +1,7 @@
+{
+  "allow_ips": ["8.8.8.8"],
+  "deny_ips": ["1.1.1.1"],
+  "allow_ports": [443],
+  "deny_ports": [23, 21, 80],
+  "protocols": ["TCP", "UDP"]
+}
